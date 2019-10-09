@@ -1,9 +1,6 @@
 Shalom Mundo!
-<<<<<<< HEAD
-
 WAYNE'S WORLD!
-=======
 Jerry World!
 Marvel World!
 Wayne's World!
->>>>>>> e49b1e2044674cd84bf3edc1b23db9d093962a65
+
